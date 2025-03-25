@@ -1,0 +1,8 @@
+
+fonts.........................................................................................
+inter-------
+font-family: "Inter", sans-serif;
+roboto------
+font-family: "Roboto", sans-serif;
+poppins-----
+font-family: "Poppins", sans-serif;
